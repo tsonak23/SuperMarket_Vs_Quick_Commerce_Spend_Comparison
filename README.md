@@ -10,5 +10,7 @@
    Walk through Key visuals
    Business impact and insights
 6. Screenshot link : https://github.com/tsonak23/SuperMarket_Vs_Quick_Commerce_Spend_Comparison/blob/main/QC_Vs_Supermarket_Spend_Comparison.png
+   
  
    
+<img width="1326" height="750" alt="QC_Vs_Supermarket_Spend_Comparison" src="https://github.com/user-attachments/assets/46f2eb14-cf19-42d9-8cc7-5670b777355f" />
