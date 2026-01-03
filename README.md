@@ -9,7 +9,7 @@
   Goal of the Dashboard
    Walk through Key visuals
    Business impact and insights
-6. Screenshot 
+   Dashboard Preview:
    
  
    
