@@ -1,6 +1,6 @@
 # SuperMarket_Vs_Quick_Commerce_Spend_Comparison
 
-1. Project Title
+1. Project Title  
 2. Short Description/Purpose
 3. Tech Slack
 4. Data Resources
