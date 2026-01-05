@@ -7,8 +7,9 @@ Supermarket Vs Quick Commerce Customer Spends Behaviour Dashboard : This dashboa
 
 This interactive dashboard is designed to understand how customer's monthly/average spends taking turns towards Quick-commerce. It has covered spends on different product categories on different platforms , how promocodes usage relates to total spends and, quick delivery engagement with customer spend.
 
-3. Tech Slack
-4. Data Resources
+** Data Resources
+
+Dataset used is synthetic and created for analytical practice to simulate real-world retail customer behavior.
 5. Features / Highlights
   Business problem
   Goal of the Dashboard
