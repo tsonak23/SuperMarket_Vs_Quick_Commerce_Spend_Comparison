@@ -4,7 +4,9 @@
 Supermarket Vs Quick Commerce Customer Spends Behaviour Dashboard : This dashboard focuses on the patterns of customer's expenditure on diffrent product categories. ALso, it tries to cover relation between customer spend with reference to delivery time. 
 
 ** Short Description/Purpose:
+
 This interactive dashboard is designed to understand how customer's monthly/average spends taking turns towards Quick-commerce. It has covered spends on different product categories on different platforms , how promocodes usage relates to total spends and, quick delivery engagement with customer spend.
+
 3. Tech Slack
 4. Data Resources
 5. Features / Highlights
