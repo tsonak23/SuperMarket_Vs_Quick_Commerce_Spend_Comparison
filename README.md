@@ -14,12 +14,18 @@ Dataset used is synthetic and created for analytical practice to simulate real-w
 
 🟨 Features:
 
- Business problem : In today's digital world, we have so many quick commerce products available at our fingertip. Howerver, this comfort of ordering and receiving products is unknowingly creating certain patterns in expenditure behaviour. 
+ Business problem : In today's digital world, we have so many quick commerce products available at our fingertip. Howerver, this comfort of ordering and receiving products is unknowingly creating certain patterns  in expenditure behaviour. 
  How these available platforms are shaping the consumer priority of time over money ? Are supermarkets still in the game? 
-  Goal of the Dashboard
-   Walk through Key visuals
-   Business impact and insights
-6.   Dashboard Preview:
+ 
+ Walk through Key visuals : 
+ Monthly Spend( Dual Line Chart) : Quick Commerce is more volatile, whereas Supermarket sales remain stable.
+ Average order frequency by month : (Dual Line Chart) : Order frequency is rising in quick commerce platforms
+ Average Spens ( Bar Chart) : Supermarket is going strong when it comes to average spend per order. Quick commerce is in small basket values. 
+   
+ Key insights: 
+ Customer behavior clearly differs across both channels.It is more about convenience vs planned purchasing. 
+ 
+ Dashboard Preview:
    
  
    
