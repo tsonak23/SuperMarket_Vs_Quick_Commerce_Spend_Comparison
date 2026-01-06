@@ -1,7 +1,7 @@
 # SuperMarket_Vs_Quick_Commerce_Spend_Comparison
 
 🔖 Project Title:  
-Supermarket Vs Quick Commerce Customer Spends Behaviour Dashboard : This dashboard focuses on the patterns of customer's expenditure on diffrent product categories. ALso, it tries to cover relation between customer spend with reference to delivery time. 
+Supermarket Vs Quick Commerce Customer Spends Behaviour Dashboard : This dashboard focuses on the patterns of customer's expenditure on diffrent product categories. Also, it tries to cover relation between customer spend with reference to delivery time. 
 
 📝 Short Description/Purpose:
 
